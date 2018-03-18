@@ -1,0 +1,9 @@
+{
+  "name": "node-scp-service",
+  "version": "0.0.0",
+  "description": "nodeScpService",
+  "main": "server.js",
+  "author": {
+    "name": "AA62543"
+  }
+}
